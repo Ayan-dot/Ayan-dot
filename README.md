@@ -1,6 +1,6 @@
 
 ### hi there, i'm ayan. 
-- studying cs @ uw '26 <img src="https://c.tenor.com/BxnjISc-LJgAAAAi/rocket-spaceship.gif" width="30px">
+- studying cs @ uw '26 <img src="https://c.tenor.com/BxnjISc-LJgAAAAi/rocket-spaceship.gif" width="20px" height="20px">
 - based in ottawa, ontario
 - curious abt ml, fintech, cv opportunities and initiatives
 
