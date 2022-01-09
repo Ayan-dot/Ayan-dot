@@ -4,4 +4,4 @@
 - based in ottawa, ontario 🌎
 - curious abt ml, fintech, cv opportunities and initiatives 🚀
 
-if you have any questions, or even just want to chat, please feel free to contact me at my [email](mailto:ayan.hafeez@uwaterloo.ca), or learn more about me on my [website](ayanhafeez.me)! 📩
+if you have any questions, or even just want to chat, please feel free to contact me at my [email](mailto:ayan.hafeez@uwaterloo.ca), or learn more about me on my [website](http://ayanhafeez.me)! 📩
