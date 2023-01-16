@@ -2,8 +2,8 @@
 ### hi there, i'm ayan. 👋
 - studying computer science @ uw '26 🎓
 - based in ottawa, ontario 🌎
-- currently working fullstack @ Skinopathy AI
-- prev software engineer coop @ Cisco Systems
+- currently working ML @ Arctic Wolf
+- prev software engineer coop @ Cisco Systems, Skinopathy
 - prev fullstack engineer @ Agora Labs (DESO and SOMA funded startup)
 - curious about ml, fintech, cv opportunities and initiatives 🚀
 
